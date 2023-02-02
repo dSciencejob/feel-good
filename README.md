@@ -1,1 +1,1 @@
-# feel-good
+Basic concept for sentiment analysis.
